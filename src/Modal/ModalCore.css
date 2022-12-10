@@ -1,0 +1,35 @@
+.modal-core{
+    background: white;
+    width: 50%;
+    margin: 5%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    opacity: 1;
+    border-radius: 15px;
+    padding: 50px;
+
+
+}
+.cart-bottom{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.cart-btns{
+    float: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.cart-btn{
+    margin: 10px;
+    background: darkblue;
+    color: white;
+    border-radius: 9px;
+    width: 75px;
+    padding: 0.3em;
+}

@@ -1,0 +1,27 @@
+/*.body-div{*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    width: 100%;*/
+/*    right: 0;*/
+/*    background: darkblue;*/
+/*    min-height: 50%;*/
+/*    height: auto;*/
+/*    z-index: 100;*/
+/*    clip-path: polygon(0 29%, 100% 1%, 100% 100%, 0% 100%);*/
+/*}*/
+
+.body-div{
+    position: relative;
+   bottom:160px;
+    width: 35%;
+    padding: 1.5rem;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    background: blue;
+    z-index: 100;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}

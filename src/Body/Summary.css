@@ -1,0 +1,16 @@
+.summary-body{
+        position: absolute;
+        top:400px;
+        width: 100%;
+        right: 0;
+        background: darkblue;
+        min-height: 50%;
+        height: auto;
+                padding-bottom: 50px;
+        z-index: 90;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+}

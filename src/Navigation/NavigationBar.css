@@ -1,0 +1,21 @@
+.navigation-bar{
+    background: darkblue;
+    height: auto;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.7rem;
+}
+
+.navigation-title{
+    float: left;
+    font-weight: bolder;
+    font-size: 1.4rem;
+color: white;
+
+}

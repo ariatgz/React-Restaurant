@@ -1,0 +1,25 @@
+.cart-indicator-body{
+    background: white;
+    padding: 0.4rem;
+    font-weight: bold;
+    height: auto;
+    border-radius: 10px;
+
+    font-size: 1.1rem;
+    float: right;
+
+}
+.number-of-items{
+    margin-left: 60px;
+    background: darkblue;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+#navbar-indicator{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+
+}

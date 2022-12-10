@@ -1,0 +1,48 @@
+.MenuItem-body{
+    background: transparent;
+    display: flex;
+    padding: 2%;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+
+}
+.left-detail{
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+
+}
+.right-detail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.price-menu{
+    color: blue;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.number-changer{
+    display: flex;
+    width: 200px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.numberInput{
+    width: 50px;
+    border-radius: 4px;
+    font-weight: bolder;
+    margin-left: 0.5rem;
+}
+.addbtn{
+    background: darkblue;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
